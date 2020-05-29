@@ -1,2 +1,2 @@
 # ola-mundo
- primeiro repositorio vercionado
+ primeiro **repositorio** *vercionado*,
